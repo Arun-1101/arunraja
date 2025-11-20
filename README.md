@@ -1,4 +1,5 @@
-👋 Hey, I'm Arun Raja — Full-Stack & ML-Integrated React Native Engineer
+<h1 align="center">Hi 👋, I'm Arun Raja</h1>
+<h3 align="center">A Full-Stack & ML-Integrated React Native Engineer</h3>
 
 I build high-performance mobile and backend systems with a mix of React Native, React, Node.js, Django REST, and on-device ML (ONNX + Turbo Modules).
 I focus on real-world problems: retail intelligence, KPI engines, logistics platforms, and scalable multi-market apps.
